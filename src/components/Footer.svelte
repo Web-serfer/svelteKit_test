@@ -1,0 +1,1 @@
+<footer class="text-center font-bold mt-4">Footer component</footer>

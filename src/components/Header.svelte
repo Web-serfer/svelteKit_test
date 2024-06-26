@@ -1,0 +1,1 @@
+<header class="text-center font-bold mt-4">Header component</header>
